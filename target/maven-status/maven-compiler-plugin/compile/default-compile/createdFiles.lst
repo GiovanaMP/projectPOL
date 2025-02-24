@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controller\ProcessoController.class
+com\example\demo\model\Processo.class
+com\example\demo\repository\ProcessoRepository.class
+com\example\demo\service\ProcessoService.class
